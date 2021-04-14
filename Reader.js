@@ -472,8 +472,8 @@ function setStyle() {
 
 }
 
-const version = 1.8
-const currentTagDicVersion = 1.8
+const version = 1.81
+const currentTagDicVersion = 1.81
 var isOrigin = window.location.href.indexOf('originalReader=')
 if(isOrigin > -1){
     const href = window.location.href.split('&')

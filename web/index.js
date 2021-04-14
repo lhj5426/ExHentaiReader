@@ -8,7 +8,7 @@ function copy(str) {
 }
 
 function genJS(attrs) {
-    var jsAddress = '"'+window.location.origin+'/ExHentaiReader/Reader.js?"'
+    var jsAddress = '"'+window.location.origin+'/Reader.js?"'
     var attrString = ''
 
     for (var i = 0; i < attrs.length; i++) {

@@ -27,8 +27,8 @@ const currentTagDicVersion = 1.81
 保持这5个文件版本号一致 生成代码 手机端刷新就可以了
 具体 在这里
 https://github.com/manakanemu/ExHentaiReader/issues/10
+![image](https://user-images.githubusercontent.com/30548000/114675418-ca24b780-9d3a-11eb-83b8-c4aec809c7d8.png)
 
-![image](https://user-images.githubusercontent.com/30548000/114674248-9d2500-9d39-11eb-8be5-f59e212fb9f0.png)
 我只弄了我自己的常用标签 
 
 最后 感谢开发者 

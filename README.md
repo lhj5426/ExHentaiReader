@@ -28,5 +28,7 @@ const currentTagDicVersion = 1.81
 具体 在这里
 https://github.com/manakanemu/ExHentaiReader/issues/10
 
-![image](https://user-images.githubusercontent.com/30548000/114674248-9d23d500-9d39-11eb-8be5-f59e212fb9f0.png)
+![image](https://user-images.githubusercontent.com/30548000/114674248-9d2500-9d39-11eb-8be5-f59e212fb9f0.png)
 我只弄了我自己的常用标签 
+
+最后 感谢开发者 
